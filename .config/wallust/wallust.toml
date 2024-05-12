@@ -1,0 +1,3 @@
+[templates]
+kitty.template = "templates/colors_kitty.conf"
+kitty.target = "~/.config/kitty/kitty_wallust.conf"
